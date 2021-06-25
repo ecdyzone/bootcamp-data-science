@@ -1,21 +1,21 @@
-# Como cheguei ao bootcamp?
+# Contexto
 
-Em maio a Alura lançou a [Imersão Dados 2021](https://www.alura.com.br/imersao-dados/). Durante uma semana tivemos conteúdo sobre ciência de dados aplicada a descobrimento de novos fármacos. (Meus cadernos de aulas estão disponíveis [aqui](https://github.com/mumaral/imersao-dados-alura)).
+Em maio, a [Alura](https://www.alura.com.br/) (uma das maiores plataformas brasileira de cursos de tecnologia), lançou a [Imersão Dados 2021](https://www.alura.com.br/imersao-dados/). Eu me inscrevi, e durante uma semana tivemos conteúdo sobre ciência de dados aplicada a descobrimento de novos fármacos. (Meus cadernos de aulas estão disponíveis [aqui](https://github.com/mumaral/imersao-dados-alura)).
 
-Ao final desta semana havia um desafio final a ser entregue, e o [meu projeto](https://github.com/mumaral/desafio-final-imersao-dados-alura) foi um dos dez selecionados para ganhar uma bolsa integral ao [Bootcamp Data Science Aplicada](https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas), que vai de Maio a Julho de 2021.
+Ao final desta semana havia um desafio final a ser entregue, e o [meu projeto](https://github.com/mumaral/desafio-final-imersao-dados-alura) foi um dos dez selecionados para ganhar uma bolsa integral a este [Bootcamp Data Science Aplicada](https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas), que vai de Maio a Julho de 2021.
 
 # Meus Projetos 
 
 Ao final de cada módulo do bootcamp desenvolvi um projeto que está num repositório separado. Clique no link para ir ao repositório.
 
 - [Módulo 1](https://github.com/mumaral/internacoes-obitos-sus) - Análise de internações, óbitos e taxa de mortalidade do SUS entre janeiro de 2011 e março de 2021.
-- [Módulo 2](https://github.com/mumaral/cobertura-vacinal-estados-brasil) - Análise comparativa sobre a cobertura vacinal nos estados brasileiros  entre 2017 e 2020, com destaque para desigualdades regionais.
+- [Módulo 2](https://github.com/mumaral/cobertura-vacinal-estados-brasil) - Análise comparativa sobre a cobertura vacinal nos estados brasileiros entre 2017 e 2020, destacando desigualdades entre Regiões e Estados brasileiros.
 
-# Conteúdo do Curso
+# Ementa do Curso
 
-*A Ementa em pdf está disponível [aqui](https://drive.google.com/file/d/1RAIzpiRlYTUhaN-onWViyH6GMfC_Vfh8/view)*
+*A Ementa em pdf está disponível [aqui](https://drive.google.com/file/d/1RAIzpiRlYTUhaN-onWViyH6GMfC_Vfh8/view).*
 
-Principais bibliotecas (Python) utilizadas: Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Facebook Prophet
+*Principais bibliotecas (Python) utilizadas: Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Facebook Prophet*
 
 
 
