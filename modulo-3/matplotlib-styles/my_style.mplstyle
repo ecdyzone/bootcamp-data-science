@@ -1,0 +1,62 @@
+font.family: serif
+font.serif: Ubuntu
+font.monospace: Ubuntu Mono
+
+axes.axisbelow: True
+axes.edgecolor: white
+#     axes.facecolor: E5E5E5
+axes.facecolor: white
+axes.grid: True
+#     axes.grid: False
+axes.labelcolor: 555555
+axes.labelsize: large
+#     axes.labelpad: 4.0
+axes.labelpad: 10.0
+axes.linewidth: 1.0
+
+axes.prop_cycle: cycler('color',  ['91ab59', 'ab5959', '72ade3', 'D6975F', '6C71C4', 'eac758'])
+    
+#         color_names = ['green', 'red', 'blue', 'brown', 'purple', 'yellow']
+#         color_hex_codes = ['#91ab59', '#ab5959', '#72ade3', '#D6975F', '#6C71C4', '#eac758']
+#         my_colors = dict(zip(color_names, color_hex_codes))
+
+    
+axes.titlesize: x-large
+axes.labelweight: bold
+
+#     axes.titlecolor: auto
+axes.titlecolor: 555555
+#     axes.titlelocation: center
+#     axes.titlepad: 6.0
+axes.titlepad: 12.0
+#     axes.titlesize: large
+axes.titleweight: bold
+#     axes.titley: None
+#     figure.titlesize: large
+figure.titleweight: bold
+#     legend.title_fontsize: None
+figure.figsize: 15, 8
+figure.edgecolor: 0.50
+figure.facecolor: white
+
+font.size: 10.0
+
+text.color: 555555
+
+grid.linestyle: :
+grid.alpha: 0.7
+grid.color: b0b0b0
+grid.linewidth: 0.8
+
+#     lines.color: 8bc317
+
+patch.antialiased: True
+patch.edgecolor: EEEEEE
+#     patch.facecolor: 348ABD
+patch.linewidth: 0.5
+xtick.color: 555555
+xtick.direction: out
+ytick.color: 555555
+ytick.direction: out
+
+#     legend.facecolor: w
