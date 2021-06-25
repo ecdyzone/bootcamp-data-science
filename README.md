@@ -20,13 +20,13 @@ Ao final de cada módulo do bootcamp desenvolvi um projeto que está num reposit
 
 
 
-#### Módulo 01: Python e pandas para análise de dados reais                                
+### Módulo 01: Python e pandas para análise de dados reais                                
 
 Neste módulo vamos aprender como utilizar **Python, Pandas e Matplotlib** para explorar os dados financeiros do SUS, mais precisamente os gastos  por Unidade Federativa ao longo dos anos. Os desafios se iniciam na  aquisição dos dados em uma plataforma do governo e seus possíveis  problemas, passando pelo leitura destes dados com o Pandas até a criação de hipóteses na área da saúde,  que sempre devem ser cuidadosas,  simulando os desafios diários de uma pessoa cientista de dados.
 
 
 
-#### Módulo 02: Visualização de dados com Seaborn e Matplotlib                                
+### Módulo 02: Visualização de dados com Seaborn e Matplotlib                                
 
 Neste módulo seguiremos nas  análises dos dados financeiros do SUS. Vamos mais fundo no tratamento e  manipulação dos dados para análises mais complexas, utilizando recursos  mais avançados do Pandas e da Linguagem Python como um todo.
 
@@ -34,7 +34,7 @@ Fontes de dados externas serão utilizadas para enriquecer a análise  explorat�
 
 
 
-#### Módulo 03: Análise de séries temporais                                
+### Módulo 03: Análise de séries temporais                                
 
 Neste módulo vamos descobrir o que são séries temporais e estudar suas particularidades. 
 
@@ -42,7 +42,7 @@ Todo arcabouço teórico adquirido até aqui será aplicado para o  entendimento
 
 
 
-#### Módulo 04: Tratamento, análise e Machine Learning aplicado                                
+### Módulo 04: Tratamento, análise e Machine Learning aplicado                                
 
 Estamos chegando na reta final, e este módulo dará início ao desenvolvimento de um projeto prático que passará por todo o *workflow* em Data Science, do entendimento do problema, tratamento e análise dos dados até a proposta de solução utilizando **Machine Learning**.
 
@@ -52,7 +52,7 @@ A partir de agora, tudo que você aprendeu ao longo destes meses será  colocado
 
 
 
-#### Módulo 05: Modelos, métricas e validações em Machine Learning
+### Módulo 05: Modelos, métricas e validações em Machine Learning
 
 No último módulo aplicamos  todo nosso conhecimento para analisar dados da COVID-19, entender alguns dos desafios dos hospitais em época de pandemia e propor soluções a  partir das análises de dados. 
 
@@ -60,6 +60,6 @@ Nossa proposta de solução foi utilizar modelos de Machine Learning,  mas para 
 
 
 
-#### Módulo 06: Finanças
+### Módulo 06: Finanças
 
 Agora chegou o momento de  consolidar seu conhecimento em uma nova área. Vamos sair do assunto  saúde e  desenvolver um projeto completo de data science aplicado a  finanças, será mais um projeto incrível para complementar seu portfólio e principalmente para te ensinar assuntos específicos desta área tão  relevante.
