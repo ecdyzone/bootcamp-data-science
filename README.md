@@ -1,3 +1,5 @@
+*Este repositório contém meus cadernos de aula e dados utilizados, organizados em pastas de acordo com os módulos de aulas.*
+
 # Contexto
 
 Em maio, a [Alura](https://www.alura.com.br/) (uma das maiores plataformas brasileira de cursos de tecnologia), lançou a [Imersão Dados 2021](https://www.alura.com.br/imersao-dados/). Eu me inscrevi, e durante uma semana tivemos conteúdo sobre ciência de dados aplicada a descobrimento de novos fármacos. (Meus cadernos de aulas estão disponíveis [aqui](https://github.com/mumaral/imersao-dados-alura)).
