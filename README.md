@@ -10,6 +10,7 @@ Ao final de cada módulo do bootcamp desenvolvi um projeto que está num reposit
 
 - [Módulo 1](https://github.com/mumaral/internacoes-obitos-sus) - Análise de internações, óbitos e taxa de mortalidade do SUS entre janeiro de 2011 e março de 2021.
 - [Módulo 2](https://github.com/mumaral/cobertura-vacinal-estados-brasil) - Análise comparativa sobre a cobertura vacinal nos estados brasileiros entre 2017 e 2020, destacando desigualdades entre Regiões e Estados brasileiros.
+- *Próximos módulos ainda não concluídos.*
 
 # Ementa do Curso
 
