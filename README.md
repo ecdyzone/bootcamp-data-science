@@ -34,6 +34,8 @@ Neste módulo seguiremos nas  análises dos dados financeiros do SUS. Vamos mais
 
 Fontes de dados externas serão utilizadas para enriquecer a análise  exploratória e realizar comparações mais precisas entre os diferentes  estados. Além disso, discutiremos mais sobre boas práticas de  visualização, interpretação de gráficos e sua construção com o Seaborn.
 
+[*Meu caderno dos módulos 1 e 2*](https://github.com/mumaral/bootcamp-data-science/blob/main/modulo-1-e-2/modulos-1-e-2.ipynb)
+
 &nbsp;
 
 ## Módulo 03: Análise de séries temporais
@@ -41,6 +43,8 @@ Fontes de dados externas serão utilizadas para enriquecer a análise  explorat�
 Neste módulo vamos descobrir o que são séries temporais e estudar suas particularidades. 
 
 Todo arcabouço teórico adquirido até aqui será aplicado para o  entendimento das nuances envolvendo as séries temporais. Da estatística  descritiva, passando pela análise exploratória e chegando às previsões,  sempre de forma aplicada e prática utilizando ferramentas específicas  para esse tipo de dados, como o [**statsmodels**](https://www.statsmodels.org/stable/index.html) e [**Prophet**](https://facebook.github.io/prophet/) desenvolvido pelo Facebook.
+
+[*Meu caderno do módulo 3*](https://github.com/mumaral/bootcamp-data-science/blob/main/modulo-3/modulo-3-series-temporais.ipynb)
 
 &nbsp;
 

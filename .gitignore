@@ -1,0 +1,11 @@
+**/.ipynb_checkpoints
+**/.jupyter_symlinks
+**/prophet-venv2
+projetos-finais/
+
+*.pdf
+*.md
+!README.md
+
+
+
