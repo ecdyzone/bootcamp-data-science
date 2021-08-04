@@ -26,6 +26,8 @@ Ao final de cada módulo do bootcamp desenvolvi um projeto que está num reposit
 
 Neste módulo vamos aprender como utilizar **Python, Pandas e Matplotlib** para explorar os dados financeiros do SUS, mais precisamente os gastos  por Unidade Federativa ao longo dos anos. Os desafios se iniciam na  aquisição dos dados em uma plataforma do governo e seus possíveis  problemas, passando pelo leitura destes dados com o Pandas até a criação de hipóteses na área da saúde,  que sempre devem ser cuidadosas,  simulando os desafios diários de uma pessoa cientista de dados.
 
+[*Meu caderno dos módulos 1 e 2*](https://nbviewer.jupyter.org/github/mumaral/bootcamp-data-science/blob/main/modulo-1-e-2/modulos-1-e-2.ipynb)
+
 &nbsp;
 
 ## Módulo 02: Visualização de dados com Seaborn e Matplotlib
@@ -56,6 +58,8 @@ Vamos trabalhar com dados da **COVID-19** do hospital **Sírio Libanês**, focan
 
 A partir de agora, tudo que você aprendeu ao longo destes meses será  colocado em prática para ajudar a propor soluções para problemas reais  de um hospital. Você irá encarar desafios reais de uma pessoa Cientista  de Dados na área da saúde.
 
+[*Meu caderno do módulo 4*](https://nbviewer.jupyter.org/github/mumaral/bootcamp-data-science/blob/main/modulo-4/modulo-4-uti-covid.ipynb)
+
 &nbsp;
 
 ## Módulo 05: Modelos, métricas e validações em Machine Learning
@@ -68,4 +72,4 @@ Nossa proposta de solução foi utilizar modelos de Machine Learning,  mas para 
 
 ## Módulo 06: Finanças
 
-Agora chegou o momento de  consolidar seu conhecimento em uma nova área. Vamos sair do assunto  saúde e  desenvolver um projeto completo de data science aplicado a  finanças, será mais um projeto incrível para complementar seu portfólio e principalmente para te ensinar assuntos específicos desta área tão  relevante.
+Agora chegou o momento de  consolidar seu conhecimento em uma nova área. Vamos sair do assunto  saúde e  desenvolver um projeto completo de data science aplicado a  finanças, será mais um projeto incrível para complementar seu portfólio e principalmente para te ensinar assuntos específicos desta área tão  relevante. 
