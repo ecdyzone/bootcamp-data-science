@@ -68,6 +68,8 @@ No último módulo aplicamos  todo nosso conhecimento para analisar dados da COV
 
 Nossa proposta de solução foi utilizar modelos de Machine Learning,  mas para tornar isso possível precisamos aprofundar nossos conhecimentos nesta área, testando modelos mais avançados, utilizando métricas  adequadas ao problema e validando de forma correta. Neste módulo vamos  trabalhar todas estas frentes para tornar nossa solução uma proposta  viável. 
 
+[*Caderno do módulo 5*](https://nbviewer.jupyter.org/github/mumaral/bootcamp-data-science/blob/main/modulo-5/modulo-5-uti-metricas.ipynb)
+
 &nbsp;
 
 ## Módulo 06: Finanças
